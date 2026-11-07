@@ -1,6 +1,6 @@
 # Change-point and anomaly detection on sensor time series
 
-This interview-preparation project compares online first-alarm detection with offline segmentation of persistent mean shifts. A separate robust local detector flags isolated spikes.
+A Python toolkit for online first-alarm detection and offline segmentation of persistent mean shifts in sensor time series. A robust local detector flags isolated spikes, with reproducible synthetic benchmarks for evaluating both tasks.
 
 ## Run
 
